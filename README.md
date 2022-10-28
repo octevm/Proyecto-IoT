@@ -48,4 +48,5 @@ Se busa realizar una mecanismo el cual funcionaría como sistema de seguridad pa
 | 3  | Funcionalidad del foco             | Media         |  0.3          | Realizar prueba para verificar el funcionamiento del foco             |   integrantes del equipo          |
 
 ## Boceto
-![image](https://user-images.githubusercontent.com/114530252/193131130-8c1bf856-4f02-4f27-a49c-0fe42ffa8b16.png)
+![image](https://user-images.githubusercontent.com/114530252/198751134-d6da3416-6db9-4088-834f-b91e3ee09fcc.png)
+
